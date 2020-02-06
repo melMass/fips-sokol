@@ -1,4 +1,4 @@
-fips-soko
+fips-sokol
 =========
 
 fipsified sokol (https://github.com/floooh/sokol)
