@@ -1,0 +1,6 @@
+# fips-imgui
+---
+exports:
+    header-dirs: [ "sokol", "sokol/util" ]
+    modules:
+        sokol: .
